@@ -244,11 +244,25 @@ footer {
   border-top: 1px solid var(--border);
 }
 
+.table-scroll {
+  overflow-x: auto;
+  max-width: var(--wrap);
+  margin: 1.5rem 0;
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
-  margin: 1.5rem 0;
   max-width: var(--wrap);
+}
+
+.table-scroll table {
+  margin: 0;
+}
+
+.note {
+  color: var(--text-muted);
+  font-size: 0.95rem;
 }
 
 th, td {
