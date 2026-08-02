@@ -132,6 +132,17 @@ h2 {
   font-size: 1.6rem;
 }
 
+h3 {
+  font-family: 'Poppins', system-ui, sans-serif;
+  color: var(--accent-dark);
+  font-size: 1.15rem;
+  margin: 2rem 0 0.6rem;
+}
+
+table + h3 {
+  margin-top: 2.5rem;
+}
+
 .hero p {
   font-size: 1.2rem;
   max-width: 760px;
