@@ -1,0 +1,12 @@
+# Bahaal
+
+> Bahaal is a volunteer-led project based in Gujranwala, Pakistan, started in 2024. It repairs water pumps and leaks, and installs low-cost solar and biogas systems, for low-income and elderly families who would otherwise go without. The team is made up of 7 student engineers and volunteers who have served 48 homes and 4 community parks so far.
+
+The site documents how the project finds families in need through word of mouth, what work the team does and does not take on, and the before-and-after cost data collected for each fix.
+
+## Pages
+
+- [Home](https://bahaalgrw.site/): project overview, mission, and summary numbers.
+- [Our Approach](https://bahaalgrw.site/approach/): how families are found, the team's process, and example entries from the home service log.
+- [Impact](https://bahaalgrw.site/impact/): homes and parks served, funds raised, and example before-and-after utility bill data.
+- [Privacy Policy](https://bahaalgrw.site/privacy/): what data this site collects and how to ask questions about it.
